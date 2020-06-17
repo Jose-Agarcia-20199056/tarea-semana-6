@@ -3,7 +3,7 @@ using System;
 public class Program
 {
 	public static void Main()
-	{// numeros primos
+	{
         // cantidad de digitos
 int num,dg = 0;
 		Console.WriteLine("Escriba un numero positivo please");
